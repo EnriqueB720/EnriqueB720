@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EnriqueB720
 - I’m interested in programming and learning new ways to create stuff
-- I’m currently learning php, IONIC, css, html and trying to get a degree :)
+- I'm a bachelor in software enginering!
 - I'm looking to collaborate in projects just to get some experience
 //////////////////////////-----------------------////////////////////////////////
 
